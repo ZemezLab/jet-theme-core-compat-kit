@@ -3,7 +3,7 @@
  * Plugin Name: JetThemeCore Compatibility Kit
  * Plugin URI:  https://crocoblock.com/
  * Description:
- * Version:     1.0.0
+ * Version:     1.1.0
  * Author:      Zemez
  * Author URI:  https://zemez.io/wordpress/
  * Text Domain: jtcck
