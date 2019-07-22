@@ -68,6 +68,7 @@ if ( ! class_exists( 'JTCCK' ) ) {
 				'oceanwp',
 				'astra',
 				'generatepress',
+				'page-builder-framework',
 			);
 
 			if ( in_array( $template, $themes ) ) {
